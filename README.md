@@ -34,6 +34,6 @@ $ ruby triangle.rb 2, 3, 4
 ## テストの実行方法
 
 ````
-bundle install
-bundle exec rspec
+$ bundle install
+$ rspec
 ````
